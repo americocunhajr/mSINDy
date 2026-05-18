@@ -96,7 +96,7 @@ If you use **mSINDy** in your research, please cite the following publication:
 
 ### Funding
 
-<img src="logo/faperj.png" width="20%"> &nbsp; &nbsp; <img src="logo/fapesp.png" width="20%"> &nbsp; &nbsp; <img src="logo/cnpq.png" width="20%"> &nbsp; &nbsp; <img src="logo/capes.png" width="10%">
+<img src="logo/faperj.png" width="20%"> &nbsp; &nbsp; <img src="logo/cnpq.png" width="20%"> &nbsp; &nbsp; <img src="logo/capes.png" width="10%">
 
 ### Contact
 For any questions or further information, please contact the third author at:
