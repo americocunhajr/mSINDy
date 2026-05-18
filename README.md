@@ -92,7 +92,7 @@ If you use **mSINDy** in your research, please cite the following publication:
 
 ### Institutional support
 
-<img src="logo/logo_lncc.png" width="25%"> &nbsp; &nbsp; <img src="logo/logo_uerj.png" width="13%"> &nbsp; &nbsp; <img src="logo/logo_marinha.png" width="25%">
+<img src="logo/logo_lncc.png" width="25%"> &nbsp; &nbsp; <img src="logo/logo_uerj.png" width="13%"> &nbsp; &nbsp; <img src="logo/logo_marinha.png" width="15%">
 
 ### Funding
 
