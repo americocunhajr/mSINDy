@@ -50,7 +50,7 @@ To get started with **mSINDy**, follow these steps:
    ```
 2. Navigate to the package directory:
    ```bash
-   cd STONEHENGE/mSINDy-1.0
+   cd mSINDy/mSINDy-1.0
    ```
 3. Run the mSINDy tutorials provided in the corresponding folders
 
