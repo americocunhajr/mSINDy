@@ -81,6 +81,7 @@ If you use **mSINDy** in your research, please cite the following publication:
   publisher = {Springer},
   year      = {2026},
   address   = {Cham},
+  url       = {https://sindycode.org},
 }
 ```
 
