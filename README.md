@@ -59,7 +59,6 @@ The code includes the following examples:
 - Duffing oscillator
 - van der Pol oscillator
 - Rossler chaotic system
-- Noise sensitivity and weak-form sparse identification
 
 ### Documentation
 The routines in **mSINDy** are well-commented to explain their functionality. Each routine includes a description of its purpose, along with its inputs and outputs. Detailed documentation can be found within the code comments.
