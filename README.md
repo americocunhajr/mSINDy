@@ -29,7 +29,7 @@
 The framework is designed to bridge theoretical concepts and practical computational workflows, including scenarios involving noisy measurements, nonlinear oscillations, chaotic dynamics, and limited observational data.
 
 This repository accompanies the developments presented in:
-- *A. Cunha Jr, and C. A. Lampe.*, Data-driven Evolution Equations via Sparse Identification of Nonlinear Dynamics. In: *Scientific Machine Learning for Predictive Modeling: Bridging Data-Driven and Physics-Based Approaches in Computational Science and Engineering*, edited by A. Cunha Jr, F. P. Santos, F. A. Rochinha, and A. L. G. A. Coutinho, Springer, 2026.
+- *A. Cunha Jr, C. A. Lampe, J. H. C. Gaspar-Elsas, and J. C. V. Fernandes*, Data-driven Evolution Equations via Sparse Identification of Nonlinear Dynamics. In: *Scientific Machine Learning for Predictive Modeling: Bridging Data-Driven and Physics-Based Approaches in Computational Science and Engineering*, edited by A. Cunha Jr, F. P. Santos, F. A. Rochinha, and A. L. G. A. Coutinho, Springer, 2026.
 
 ### Features
 - Sparse identification of governing equations from trajectory data
@@ -67,14 +67,16 @@ The routines in **mSINDy** are well-commented to explain their functionality. Ea
 ### Authors
 - Americo Cunha Jr
 - Cesar Augusto Lampe
+- José Hugo Capella Gaspar-Elsas
+- Júlio de Castro Vargas Fernandes
 
 ### Citing mSINDy
 If you use **mSINDy** in your research, please cite the following publication:
-- *A. Cunha Jr, and C. A. Lampe.*, Data-driven Evolution Equations via Sparse Identification of Nonlinear Dynamics. In: *Scientific Machine Learning for Predictive Modeling: Bridging Data-Driven and Physics-Based Approaches in Computational Science and Engineering*, edited by A. Cunha Jr, F. P. Santos, F. A. Rochinha, and A. L. G. A. Coutinho, Springer, 2026.
+- *A. Cunha Jr, C. A. Lampe, J. H. C. Gaspar-Elsas, and J. C. V. Fernandes*, Data-driven Evolution Equations via Sparse Identification of Nonlinear Dynamics. In: *Scientific Machine Learning for Predictive Modeling: Bridging Data-Driven and Physics-Based Approaches in Computational Science and Engineering*, edited by A. Cunha Jr, F. P. Santos, F. A. Rochinha, and A. L. G. A. Coutinho, Springer, 2026.
 
 ```
 @incollection{mSINDy2026,
-  author    = {A. Cunha Jr and C. A. Lampe},
+  author    = {A. Cunha Jr and C. A. Lampe and J. H. C. Gaspar-Elsas and J. C. V. Fernandes},
   title     = {Data-driven Evolution Equations via Sparse Identification of Nonlinear Dynamics},
   booktitle = {Scientific Machine Learning for Predictive Modeling: Bridging Data-Driven and Physics-Based Approaches in Computational Science and Engineering},
   editor    = {Americo Cunha Jr and F. P. Santos and F. A. Rochinha and A. L. G . A. Coutinho},
