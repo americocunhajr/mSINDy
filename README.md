@@ -78,7 +78,7 @@ If you use **mSINDy** in your research, please cite the following publication:
   author    = {A. Cunha Jr and C. A. Lampe and J. H. C. Gaspar-Elsas and J. C. V. Fernandes},
   title     = {Data-driven Evolution Equations via Sparse Identification of Nonlinear Dynamics},
   booktitle = {Scientific Machine Learning for Predictive Modeling: Bridging Data-Driven and Physics-Based Approaches in Computational Science and Engineering},
-  editor    = {Americo Cunha Jr and F. P. Santos and F. A. Rochinha and A. L. G . A. Coutinho},
+  editor    = {A. Cunha Jr and F. P. Santos and F. A. Rochinha and A. L. G . A. Coutinho},
   publisher = {Springer},
   year      = {2026},
   address   = {Cham},
