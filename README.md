@@ -71,9 +71,9 @@ The routines in **mSINDy** are well-commented to explain their functionality. Ea
 
 ### Citing mSINDy
 If you use **mSINDy** in your research, please cite the following publication:
-- *A. Cunha Jr, C. A. Lampe, J. H. C. Gaspar-Elsas, and J. C. V. Fernandes*, Data-driven Evolution Equations via Sparse Identification of Nonlinear Dynamics. In: *Scientific Machine Learning for Predictive Modeling: Bridging Data-Driven and Physics-Based Approaches in Computational Science and Engineering*, edited by A. Cunha Jr, F. P. Santos, F. A. Rochinha, and A. L. G. A. Coutinho, Springer, 2026.
+> *A. Cunha Jr, C. A. Lampe, J. H. C. Gaspar-Elsas, and J. C. V. Fernandes*, Data-driven Evolution Equations via Sparse Identification of Nonlinear Dynamics. In: *Scientific Machine Learning for Predictive Modeling: Bridging Data-Driven and Physics-Based Approaches in Computational Science and Engineering*, edited by A. Cunha Jr, F. P. Santos, F. A. Rochinha, and A. L. G. A. Coutinho, Springer, 2026.
 
-```
+```bibtex
 @incollection{mSINDy2026,
   author    = {A. Cunha Jr and C. A. Lampe and J. H. C. Gaspar-Elsas and J. C. V. Fernandes},
   title     = {Data-driven Evolution Equations via Sparse Identification of Nonlinear Dynamics},
