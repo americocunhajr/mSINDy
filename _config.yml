@@ -7,3 +7,13 @@ highlighter: rouge
 
 kramdown:
   syntax_highlighter: rouge
+
+# Canonical site metadata and GitHub Pages SEO plugins
+title: "mSINDy — Sparse Identification of Nonlinear Dynamics"
+description: "Open-source MATLAB software for discovering nonlinear differential equations from data using SINDy, sparse regression, and interpretable candidate libraries."
+url: "https://sindycode.org"
+lang: en
+image: /logo/mSINDy.png
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap

@@ -42,6 +42,10 @@ This repository accompanies the developments presented in:
 - MATLAB implementations for pedagogical and research applications
 - Reproducible workflows aligned with published studies
 
+### Examples and methods
+
+The [mSINDy examples and methods catalogue](https://sindycode.org/examples/) provides an overview of numerical workflows and directly links to MATLAB source files.
+
 ### Usage
 To get started with **mSINDy**, follow these steps:
 1. Clone the repository:

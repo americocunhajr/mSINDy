@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use mSINDy in research, consult the publication citation in the repository README."
+title: "mSINDy — modular Sparse Identification of Nonlinear Dynamics"
+type: software
+repository-code: "https://github.com/americocunhajr/mSINDy"
+url: "https://sindycode.org/"
+license: MIT
+authors:
+  - family-names: "Cunha Jr"
+    given-names: "Americo"
+  - family-names: "Lampe"
+    given-names: "Cesar Augusto"
+  - family-names: "Gaspar-Elsas"
+    given-names: "José Hugo Capella"
+  - family-names: "Fernandes"
+    given-names: "Júlio de Castro Vargas"

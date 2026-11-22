@@ -1,0 +1,45 @@
+{% if page.url == '/' or page.url == '/index.html' or page.name == 'README.md' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareSourceCode",
+  "@id": "https://sindycode.org/#software",
+  "name": "mSINDy — modular Sparse Identification of Nonlinear Dynamics",
+  "description": "Open-source MATLAB software for discovering nonlinear differential equations from data using SINDy, sparse regression, and interpretable candidate libraries.",
+  "url": "https://sindycode.org/",
+  "codeRepository": "https://github.com/americocunhajr/mSINDy",
+  "programmingLanguage": [
+    "MATLAB"
+  ],
+  "license": "https://github.com/americocunhajr/mSINDy/blob/main/LICENSE",
+  "isAccessibleForFree": true,
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Americo Cunha Jr"
+    },
+    {
+      "@type": "Person",
+      "name": "Cesar Augusto Lampe"
+    },
+    {
+      "@type": "Person",
+      "name": "José Hugo Capella Gaspar-Elsas"
+    },
+    {
+      "@type": "Person",
+      "name": "Júlio de Castro Vargas Fernandes"
+    }
+  ],
+  "citation": {
+    "@type": "Chapter",
+    "name": "Data-driven Evolution Equations via Sparse Identification of Nonlinear Dynamics",
+    "datePublished": "2026",
+    "isPartOf": {
+      "@type": "Book",
+      "name": "Scientific Machine Learning for Predictive Modeling: Bridging Data-Driven and Physics-Based Approaches in Computational Science and Engineering"
+    }
+  }
+}
+</script>
+{% endif %}
